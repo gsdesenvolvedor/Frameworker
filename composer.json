@@ -1,0 +1,17 @@
+{
+    "name": "gsisouza/frameworker",
+    "description": "A simple PHP framework with essential features for building a web application using pre-existing libraries.",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "Frameworker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel S. Souza",
+            "email": "gsilvasouza.ce@gmail.com"
+        }
+    ],
+    "require": {}
+}
