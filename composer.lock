@@ -1307,22 +1307,22 @@
         },
         {
             "name": "gsisouza/i18n-for-frameworker",
-            "version": "v1.0.0",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gsisouza/i18n-for-frameworker.git",
-                "reference": "419465296746fcf3697c8d666cf3cd9f8c61c0fe"
+                "reference": "c2a0dc2c73687a5bf99e6811e0b8b2655a5bb154"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gsisouza/i18n-for-frameworker/zipball/419465296746fcf3697c8d666cf3cd9f8c61c0fe",
-                "reference": "419465296746fcf3697c8d666cf3cd9f8c61c0fe",
+                "url": "https://api.github.com/repos/gsisouza/i18n-for-frameworker/zipball/c2a0dc2c73687a5bf99e6811e0b8b2655a5bb154",
+                "reference": "c2a0dc2c73687a5bf99e6811e0b8b2655a5bb154",
                 "shasum": ""
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Gsisouza\\I18nForFrameworker\\": "src/"
+                    "gsisouza\\I18nForFrameworker\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1338,9 +1338,9 @@
             "description": "A simple internationalization library for Frameworker.",
             "support": {
                 "issues": "https://github.com/gsisouza/i18n-for-frameworker/issues",
-                "source": "https://github.com/gsisouza/i18n-for-frameworker/tree/v1.0.0"
+                "source": "https://github.com/gsisouza/i18n-for-frameworker/tree/v1.0.2"
             },
-            "time": "2023-03-28T00:47:39+00:00"
+            "time": "2023-03-28T01:19:22+00:00"
         },
         {
             "name": "phpoption/phpoption",
