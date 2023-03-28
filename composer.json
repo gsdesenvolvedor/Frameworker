@@ -1,0 +1,26 @@
+{
+    "name": "gsisouza/frameworker",
+    "description": "A simple PHP framework with essential features for building a web application using pre-existing libraries.",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "Frameworker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel S. Souza",
+            "email": "contato@gabrielsouza.dev.br"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "vlucas/phpdotenv": "^5.5",
+        "doctrine/orm": "^2.14",
+        "doctrine/dbal": "^3.6",
+        "eftec/bladeone": "^4.8",
+        "filp/whoops": "^2.15",
+        "doctrine/migrations": "^3.6",
+        "gsisouza/i18n-for-frameworker": "^1.0"
+    }
+}
