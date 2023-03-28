@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d29bc08dfac693cc4e6fb2c8a0971090",
+    "content-hash": "d094912df388490ebb76b88a9c53607f",
     "packages": [
         {
             "name": "bramus/router",
@@ -1304,6 +1304,43 @@
                 }
             ],
             "time": "2023-02-25T20:23:15+00:00"
+        },
+        {
+            "name": "gsisouza/i18n-for-frameworker",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/gsisouza/i18n-for-frameworker.git",
+                "reference": "419465296746fcf3697c8d666cf3cd9f8c61c0fe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/gsisouza/i18n-for-frameworker/zipball/419465296746fcf3697c8d666cf3cd9f8c61c0fe",
+                "reference": "419465296746fcf3697c8d666cf3cd9f8c61c0fe",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Gsisouza\\I18nForFrameworker\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Gabriel S. Souza",
+                    "email": "contato@gabrielsouza.dev.br"
+                }
+            ],
+            "description": "A simple internationalization library for Frameworker.",
+            "support": {
+                "issues": "https://github.com/gsisouza/i18n-for-frameworker/issues",
+                "source": "https://github.com/gsisouza/i18n-for-frameworker/tree/v1.0.0"
+            },
+            "time": "2023-03-28T00:47:39+00:00"
         },
         {
             "name": "phpoption/phpoption",

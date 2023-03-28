@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "Gabriel S. Souza",
-            "email": "gsilvasouza.ce@gmail.com"
+            "email": "contato@gabrielsouza.dev.br"
         }
     ],
     "require": {
@@ -20,6 +20,7 @@
         "doctrine/dbal": "^3.6",
         "eftec/bladeone": "^4.8",
         "filp/whoops": "^2.15",
-        "doctrine/migrations": "^3.6"
+        "doctrine/migrations": "^3.6",
+        "gsisouza/i18n-for-frameworker": "^1.0"
     }
 }
